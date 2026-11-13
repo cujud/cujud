@@ -25,7 +25,7 @@ Computer Science student learning to become a **CEO**, while also exploring **Ne
 <br>
 
 ## Connect with Me
-- GitHub: [@soulightric](https://github.com/soulightric)
+- GitHub: [@cujud](https://github.com/cujud)
 - Email: fikrizeronine@gmail.com
 - Porto: [Fikri Sujud Portofolio](https://fs.etherthink.xyz)
 
@@ -34,6 +34,6 @@ Thanks for visiting my profile!
 
 <div align="center">
  
- ![snake gif](https://github.com/soulightric/soulightric/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/cujud/cujud/blob/output/github-snake-dark.svg)
  
 </div>
